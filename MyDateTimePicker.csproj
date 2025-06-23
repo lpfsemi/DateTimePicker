@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="View\DateTimePicker.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\close.png" />
+    <Resource Include="Image\Date.bmp" />
+    <Resource Include="Image\date.png" />
+    <Resource Include="Image\date1.bmp" />
+    <Resource Include="Image\date2.ico" />
+    <Resource Include="Image\DateTimePicker.bmp" />
+    <Resource Include="Image\DateTimePicker1.bmp" />
+    <Resource Include="Image\ooopic_1501745970.ico" />
+    <Resource Include="Image\timer.bmp" />
+  </ItemGroup>
+
+</Project>
