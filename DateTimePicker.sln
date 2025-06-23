@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDateTimePicker", "MyDateTimePicker.csproj", "{B8BB111D-9298-4F01-85FC-E763DCEDA4CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfDateTimePicker", "..\WpfDateTimePicker\WpfDateTimePicker.csproj", "{6874250C-28DD-4090-8256-3EB6DE9920F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfDateTimePicker", "WpfDateTimePicker\WpfDateTimePicker.csproj", "{6874250C-28DD-4090-8256-3EB6DE9920F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
